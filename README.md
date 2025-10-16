@@ -37,6 +37,7 @@ A simple RESTful API endpoint `/me` that returns my profile information and a ra
 ```
 
 ## 🧩 Project Structure
+```
 HNG_13_Stage_Zero/
 │
 ├── core/
@@ -51,7 +52,7 @@ HNG_13_Stage_Zero/
 ├── requirements.txt
 ├── db.sqlite3
 └── README.md
-
+```
 
 ## ⚙️ Setup Instructions
 ## 1️⃣ Clone the Repository
