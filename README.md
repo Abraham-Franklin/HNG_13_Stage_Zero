@@ -57,8 +57,6 @@ HNG_13_Stage_Zero/
 ## ⚙️ Setup Instructions
 ## 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Abraham-Franklin/hng_stage0_backend.git
-cd hng_stage0_backend
 git clone https://github.com/Abraham-Franklin/HNG_13_Stage_Zero.git
 cd HNG_13_Stage_Zero
 ```
